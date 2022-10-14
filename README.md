@@ -1,1 +1,2 @@
 # SnakeGame
+This game was written by me and my friend as a final project for a university course. Although it is not very complicated, it seems to me that the logic and structure are well thought out in it, which is quite important for a real project.
